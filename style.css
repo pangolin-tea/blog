@@ -22,3 +22,6 @@
 table, tr, th {
     border-collapse: collapse;
 }
+body {
+    background-color: rgb(255, 244, 227);
+}
