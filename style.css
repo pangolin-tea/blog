@@ -1,5 +1,11 @@
 .heading {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    color:rgb(65, 65, 65);
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 }
 .profile {
@@ -10,14 +16,17 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    font-family: Helvetica, sans-serif;
+    color:rgb(65, 65, 65);
 }
 .bar {
     width: 25%;
 }
 .menu {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     text-align: center;
     font-size: 20pt;
+    color:rgb(65, 65, 65);
 }
 .toolbar {
     table-layout: fixed;
@@ -27,7 +36,8 @@
     width: 30%;
     margin-left: auto;
     margin-right: auto;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
+    color:rgb(65, 65, 65);
 }
 table, tr, th {
     border-collapse: collapse;
