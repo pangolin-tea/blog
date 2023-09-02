@@ -28,6 +28,12 @@
     font-size: 20pt;
     color:rgb(65, 65, 65);
 }
+.sign-in {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
 .toolbar {
     table-layout: fixed;
     width: 100%;
